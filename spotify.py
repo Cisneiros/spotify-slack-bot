@@ -1,5 +1,6 @@
 from subprocess import check_output
 from slackclient import SlackClient
+import os
 import re
 import time
 import json
