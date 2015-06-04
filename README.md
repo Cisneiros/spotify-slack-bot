@@ -1,8 +1,8 @@
 # Spotify-Slack-Bot
 
-*Bring life to your office with a colaborative playlist controlled via Slack!*
+*Bring life to your office with a collaborative playlist controlled via Slack!*
 
-Spotify-Slack-Bot is a Slack bot that controls an instance of Spotify.  It can tell what song is playing and control playback (e.g. playing and pausing).  Run it on a machine with Spotify installed and connected to your office speakers, create a colaborative playlist that your team can add songs to and you have some nice music on your office that can be easily paused by anyone when some quiet time is needed, and managed without needing physical access to the computer running Spotify.
+Spotify-Slack-Bot is a Slack bot that controls an instance of Spotify.  It can tell what song is playing and control playback (e.g. playing and pausing).  Run it on a machine with Spotify installed and connected to your office speakers, create a collaborative playlist that your team can add songs to and you have some nice music on your office that can be easily paused by anyone when some quiet time is needed, and managed without needing physical access to the computer running Spotify.
 
 ## Features
 
@@ -76,10 +76,10 @@ The bot uses AppleScript to talk to the Spotify client running on the computer. 
 
 ## License: MIT
 
-Copyright © 2014 Alexandre Cisneiros - www.cisneiros.com
+Copyright © 2015 Alexandre Cisneiros - www.cisneiros.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
