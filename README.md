@@ -70,6 +70,17 @@ Finally, run it.
 python spotify.py
 ```
 
+## TO-DOs:
+
+Non-exhaustive unordered list of future steps:
+
+* Search for songs and add to the collaborative playlist.
+* Add a song to the queue (depends on Spotify adding support on AppleScript API).
+* Supporting other operating systems (see below).
+* Package this nicely for a friendlier installation and usage.
+
+Feel free to contribute by implementing any of these features, implementing any anything else you may think of or fixing any bugs.
+
 ## Why OS X only?
 
 The bot uses AppleScript to talk to the Spotify client running on the computer.  The name kinda makes it obvious it is not supported on non-Apple operating systems.  As the office I work on had Spotify running on a Mac already, that was not an issue at the time.  There might be ways to control and get data from the player on Windows and Linux, I just haven't done any research on it for now.
