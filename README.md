@@ -14,7 +14,7 @@ For now, there is no way to add songs to the playlist or to the play queue.  Add
 
 ## What you need
 
-* A computer (OS X only, for now) running Spotify.
+* A computer (OS X only, for now) running Spotify, with a collaborative playlist.
 * Python (already included with OS X), `pip` and `virtualenv`.
 * A Slack Bot integration setup and its API Key.
 * A Slack channel dedicated to your playlist for the bot to broadcast messages when needed.

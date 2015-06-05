@@ -84,7 +84,7 @@ class SpotifySlackBot():
                             if re.match(expression, event['text']):
                                 function(event)
                                 break
-            time.sleep(1)
+                time.sleep(1)
 
 if __name__ == '__main__':
     bot = SpotifySlackBot(os.environ.get('SPOTIFYSLACK_SLACK_API_KEY'), os.environ.get('SPOTIFYSLACK_SLACK_BROADCAST_CHANNEL'))
